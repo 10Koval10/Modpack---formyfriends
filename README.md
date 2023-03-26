@@ -39,5 +39,15 @@ jeśli to zrobisz naciśnij ... , gdy to zrobisz wyświetli ci się lokalizacja 
 ![image](https://user-images.githubusercontent.com/94115524/227795768-92b447cc-528c-4d58-b36a-dfadbec1eac1.png)
 
 
-
+ 
  Po zrobieniu wszystkich kroków , możesz odpalić to guwieno . Miłej gry :)
+ .
+ .
+ .
+ .
+ .
+ Jest też druga opcja , jeśli zainstalowałeś crystal launchera i Paczke Modów , możesz poprostu odpalić paczke modów i wyświetlici się to 
+ .
+ .
+ ![image](https://user-images.githubusercontent.com/94115524/227796346-4320f20e-520e-4632-9372-d061ba7aee3f.png)
+
